@@ -1,4 +1,4 @@
-<img width="974" alt="image" src="https://github.com/HenryChang666/LLaMA-Factory/assets/156045275/52dd1375-4fa6-418c-b28d-7422b4308389"><img width="696" alt="15bb937e78b248da4651d68816c75f9" src="https://github.com/HenryChang666/LLaMA-Factory/assets/156045275/19177ca9-28cb-4f91-a152-08770e0d9d6b">## 基本设置
+## 基本设置
 1. 运行环境：Python 3.10、Pytorch 2.1.2
 2. 硬件环境：CPU Intel(R) Xeon(R) Gold 5118
             GPU TITAN V
