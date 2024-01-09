@@ -34,6 +34,9 @@ CUDA_VISIBLE_DEVICES=4 python src/train_bash.py \
     --fp16 True \
     --plot_loss True
 ```
+## 过程截图
+1. 数据准备
+<img width="696" alt="15bb937e78b248da4651d68816c75f9" src="https://github.com/HenryChang666/LLaMA-Factory/assets/156045275/bc6cdbf2-8404-4b4e-b6a3-16df4bedb956">
 
 \[ English | [中文](README_zh.md) \]
 
