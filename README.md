@@ -1,5 +1,7 @@
 ## 基本设置
 
+
+
 👋 Join our [WeChat](assets/wechat.jpg).
 
 \[ English | [中文](README_zh.md) \]
