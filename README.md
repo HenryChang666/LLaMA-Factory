@@ -37,6 +37,7 @@ CUDA_VISIBLE_DEVICES=4 python src/train_bash.py \
 ## 过程截图
 1. 数据准备
 <img width="696" alt="15bb937e78b248da4651d68816c75f9" src="https://github.com/HenryChang666/LLaMA-Factory/assets/156045275/bc6cdbf2-8404-4b4e-b6a3-16df4bedb956">
+
 2. 模型训练
 <img width="939" alt="77f11b525d405cc5e7e3cce82ec99c1" src="https://github.com/HenryChang666/LLaMA-Factory/assets/156045275/af88094c-e9f9-4b48-a4d6-41fd5bcfd239">
 
