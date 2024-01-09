@@ -1,8 +1,8 @@
 ## 基本设置
-
-
-
-👋 Join our [WeChat](assets/wechat.jpg).
+1. 运行环境：Python 3.10、Pytorch 2.1.2
+2. 硬件环境：CPU Intel(R) Xeon(R) Gold 5118
+            GPU TITAN V
+3. 
 
 \[ English | [中文](README_zh.md) \]
 
