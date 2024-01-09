@@ -1,3 +1,4 @@
+## 基本设置
 
 👋 Join our [WeChat](assets/wechat.jpg).
 
