@@ -6,6 +6,7 @@
 4. 微调数据集：alpaca_gpt4_zh
 5. 微调方法：LORA 学习率：2e-5 训练轮数：2.0
 ## 训练命令
+```bash
 CUDA_VISIBLE_DEVICES=4 python src/train_bash.py \
     --stage sft \
     --do_train True \
@@ -32,7 +33,7 @@ CUDA_VISIBLE_DEVICES=4 python src/train_bash.py \
     --output_dir saves/ChineseLLaMA2-1.3B/lora/train_2024-01-10-00-17-52 \
     --fp16 True \
     --plot_loss True
-
+```
 
 \[ English | [中文](README_zh.md) \]
 
